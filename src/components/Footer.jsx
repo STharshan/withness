@@ -25,10 +25,10 @@ export default function Footer() {
             confidence.
           </p>
           <div className="flex space-x-4">
-            <a href="#" className="text-primary-hover transition">
+            <a href="https://web.facebook.com/witnessthefitness999/?_rdc=1&_rdr#" className="text-primary-hover transition">
               <FaFacebookF />
             </a>
-            <a href="#" className="text-primary-hover transition">
+            <a href="https://www.instagram.com/witnessthefitness999/" className="text-primary-hover transition">
               <FaInstagram />
             </a>
             <a href="#" className="text-primary-hover transition">
@@ -97,7 +97,7 @@ export default function Footer() {
           <ul className="space-y-3 text-sm">
             <li className="flex items-center space-x-2">
               <FiPhone className="text-primary " />
-              <span>+12 (307) 535-0133</span>
+              <span>+44 7984 936464</span>
             </li>
             <li className="flex items-center space-x-2">
               <FiMail className="text-primary " />
@@ -106,9 +106,9 @@ export default function Footer() {
             <li className="flex items-start space-x-2">
               <FiMapPin className="text-primary  mt-1" />
               <span>
-                6391 Elgin St. Celina,
+                16 Nell Lane Within, Chorlton Park, 
                 <br />
-                Delaware 10299
+                Manchester M21 7UD, UK
               </span>
             </li>
           </ul>
